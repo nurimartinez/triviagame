@@ -1,5 +1,5 @@
-Juego de Trivial
--------------
+# Juego de Trivial
+
 <p align="center">
   <img src="public/favicon.png" width="100">
 </p>
