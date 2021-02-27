@@ -6,7 +6,7 @@
 
 Introducción
 -------------
-Juego de preguntas en inglés de conocimiento general obtenidas mediante el consumo de la API Open Trivia Database. 
+Juego de preguntas en inglés de conocimiento general obtenidas mediante el consumo de la API Open Trivia. 
 
 
 <p align="center">
